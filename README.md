@@ -11,7 +11,7 @@ conda activate hand-env
 ```
 
 ## 3) Select a camera
-Change the camera index a line 336 in `steering_wheel.py` to chose a different camera:
+Change the camera index at line 336 in `steering_wheel.py` to chose a different camera:
 ```python
 cap = cv2.VideoCapture(0)  # Put 1 for external webcam
 ```
