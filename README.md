@@ -16,7 +16,7 @@ Change the camera index at line 336 in `steering_wheel.py` to chose a different 
 cap = cv2.VideoCapture(0)  # Put 1 for external webcam
 ```
 
-## 3) Run the script
+## 4) Run the script
 ```sh
 python steering_wheel.py
 ```
